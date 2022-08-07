@@ -1,5 +1,8 @@
-# Default ignored files
-
+### IntelliJ IDEA ###
 .idea
-!.idea/*.xml
+*.iws
+*.iml
+*.ipr
+
+### Gradle ###
 .gradle

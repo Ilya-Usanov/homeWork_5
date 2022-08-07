@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selectors.byLinkText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class findLinkTest {
+public class FindLinkTest {
 
     /**
      * h1 div найдет все элементы, совпадающие с указанным локатором и вернет первый подходящий под эти условия элемент
